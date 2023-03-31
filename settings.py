@@ -1,3 +1,0 @@
-CLIENT_OS = 'Android'
-CLIENT_VERSION = 4543
-LANG_CODE = 'en'
