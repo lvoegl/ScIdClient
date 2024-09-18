@@ -9,7 +9,7 @@ packages = [{include = "scidclient"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
-requests = "^2.28.2"
+requests = "^2.32.3"
 
 [tool.poetry.group.dev.dependencies]
 mypy = "^0.991"
